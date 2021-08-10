@@ -1,0 +1,3 @@
+# FlashBrowser
+FlashBrowser
+.zip dosyasını indirip masaüstüne FlashBrowser dosyasını atın. Ardından FlashBrowser.zip dosyasına sağ tık yaparak  Klasöre Ayıkla seçeneğini seçiniz. Ardından masaüstüne gelen FlashBrowser-main kısayolunu açın. Uygulama içerisindeki FlashBrowser-main klasörüne girerek Flash Browser uygulamasına çift tıklayın. Herhangi bir güvenlik sorusunda gönül rahatlığı ile Çalıştır, Yine de Devam Et seçeneklerini seçebilirsiniz. Uygulamamız VirüsTotal tarafından Virüssüz bulunmuştur. Sol alt kısımda bulunan FlashBrowser uygulamasına sağ tık yaparak "Bu programı görev çubuğuna sabitle" diyerek sabitleyebilir ve bir sonraki girişlerinizde erişim rahatlığı sağlayabilirsiniz. Geliştirici ve Depolayan xST. İyi Eğlenceler :)   
